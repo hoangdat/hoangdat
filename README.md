@@ -2,7 +2,7 @@
 
 ###### Sup! Here's **hoangdat**! 🤓 
 
-###### The name's Darren, Android developer/☁️! 
+###### The name's Darren, Mobile developer/☁️! 
 
 [![Mallowigi's github stats](https://github-readme-stats.vercel.app/api?username=hoangdat&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/hoangdat)
 
